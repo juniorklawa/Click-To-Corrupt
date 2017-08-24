@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapToCorrupt.Plugins", "TapToCorrupt.Plugins.csproj", "{0120CEAD-C09E-6AE5-AC7E-1EB4C6AA6A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapToCorrupt", "TapToCorrupt.csproj", "{D7835299-254B-FB17-BF40-98254B9753BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapToCorrupt.Editor.Plugins", "TapToCorrupt.Editor.Plugins.csproj", "{D4BF590C-C2A4-E8D1-026B-939AB7713D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0120CEAD-C09E-6AE5-AC7E-1EB4C6AA6A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0120CEAD-C09E-6AE5-AC7E-1EB4C6AA6A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0120CEAD-C09E-6AE5-AC7E-1EB4C6AA6A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0120CEAD-C09E-6AE5-AC7E-1EB4C6AA6A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7835299-254B-FB17-BF40-98254B9753BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7835299-254B-FB17-BF40-98254B9753BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7835299-254B-FB17-BF40-98254B9753BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7835299-254B-FB17-BF40-98254B9753BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BF590C-C2A4-E8D1-026B-939AB7713D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BF590C-C2A4-E8D1-026B-939AB7713D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BF590C-C2A4-E8D1-026B-939AB7713D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BF590C-C2A4-E8D1-026B-939AB7713D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
